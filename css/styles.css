@@ -1,0 +1,45 @@
+body{
+  background-color:white;
+  margin:0;
+  text-align:center;
+}
+h1{
+  margin-top:0;
+}
+div{
+  background-color: #FFF5E4;
+  padding:20px;
+
+}
+.top-container{
+  width: auto;
+}
+
+.headtab{
+  background-color: #367E18;
+  overflow:scroll;
+  }
+
+.headtab a{
+  float:left;
+  color:white;
+  text-align: center;
+  padding: 13px 15px;
+  font-size:19px;
+}
+.headtab a:hover{
+      background-color: #CC3636;
+      color: black ;
+
+}
+
+
+.headtab-left{
+  float:right;
+  background-color: inherit;
+  padding:inherit;
+  margin: 0px;
+  padding-top: 0px;
+
+
+}
